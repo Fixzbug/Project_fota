@@ -9,7 +9,7 @@
 #define WIFI_STA_NAME "TP-Link_C8EA"
 #define WIFI_STA_PASS "89663042"
 
-esp32FOTA esp32FOTA("esp32-fota-http", "3.0.2", false, true);
+esp32FOTA esp32FOTA("esp32-fota-http", "3.0.3", false, true);
 
 void setup() {
   SPIFFS.begin(true);
@@ -43,6 +43,6 @@ void loop() {
   if (updatedNeeded) {
     esp32FOTA.execOTA();
   }
-  Serial.println("New version 3.0.2");
+  Serial.println("New version 3.0.3");
   delay(2000);
 }
