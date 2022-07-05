@@ -10,15 +10,23 @@
 - esp32 
 - esp32FOTA
 
-check 
+<h3 align="left">Link</h3>
+<p align="left">
+</p>
+
 - https://makerzcoding.com/fota/fota.json
 
-lib
+<h3 align="left">Libarry</h3>
+<p align="left">
+</p>
+
 - https://github.com/chrisjoyce911/esp32FOTA
 
-ref
-- https://dev.to/bkanhu/auto-deployment-of-website-with-github-and-hostinger-563p?signin=true
+<h3 align="left">Ref.</h3>
+<p align="left">
+</p>
 
+- https://dev.to/bkanhu/auto-deployment-of-website-with-github-and-hostinger-563p?signin=true
 
 
 <h3 align="left">Languages and Tools:</h3>
