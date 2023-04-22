@@ -1,5 +1,5 @@
 {
     "type": "esp32-fota-http",
-    "version": "3.0.3",
-    "url": "https://makerzcoding.com/fota/esp32-fota-https-3-0-3.bin"
+    "version": "0.0.4",
+    "url": "https://makerzcoding.com/fota/esp32-fota-https-0-0-4.bin"
 }
