@@ -9,6 +9,14 @@
 - hostinger 
 - esp32 
 - esp32FOTA
+set pulic repo
+edit version code export binary
+edit name file like name code
+git init
+git add .
+git commit -m "update admin :fire: "
+git push -u origin master
+
 
 <h3 align="left">Link</h3>
 <p align="left">
