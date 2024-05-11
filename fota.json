@@ -1,5 +1,5 @@
 {
-    "type": "makerzx",
-    "version": "2.0.0",
-    "url": "https://makerzcoding.com/fota/makerz-2-0-0.bin"
+    "type": "esp32-fota-http",
+    "version": "1.0.1",
+    "url": "https://makerzcoding.com/fota/esp32-fota-http-1-0-1.bin"
 }
