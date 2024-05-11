@@ -6,10 +6,10 @@
 #include <SPIFFS.h>
 #include <esp32fota.h>
 
-#define WIFI_SSID         "5/105_2.4G"
-#define WIFI_PASSWORD     "11357902"
+#define WIFI_SSID         "HUAWEI_378F"
+#define WIFI_PASSWORD     "0B50QG3F093"
 
-esp32FOTA esp32FOTA("esp32-fota-http", "2.0.0", false, true);
+esp32FOTA esp32FOTA("esp32-fota-http", "1.0.0", false, true);
 
 void setup() {
   SPIFFS.begin(true);
@@ -43,6 +43,6 @@ void loop() {
   if (updatedNeeded) {
     esp32FOTA.execOTA();
   }
-  Serial.println("New version 2.0.0");
+  Serial.println("New version 1.0.0");
   delay(2000);
 }
